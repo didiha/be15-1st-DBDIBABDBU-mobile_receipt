@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/📊_Project_Presentation-FF3366?style=for-the-badge&logoColor=white" alt="프로젝트 프레젠테이션">
   </a>
 </div>
-<div align="center"><code>./assets/presentation/</code>></div>
+<div align="center"><code>./assets/presentation/</code></div>
 <br>
 <div align="center">
 <a href="https://share.descript.com/view/bOhnBZC4LmI">
